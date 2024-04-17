@@ -26,15 +26,12 @@ To start using this WCPS Python interface, clone the repository and navigate to 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/wcps-python-interface.git
+git clone https://github.com/andrix007/WCPS-Python-Library.git
 
 # Set up a virtual environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate  # For Unix or MacOS
 venv\Scripts\activate  # For Windows
-
-# Install dependencies (if any)
-pip install -r requirements.txt
 
 ```
 Run the unit tests to ensure that everything is set up correctly:
